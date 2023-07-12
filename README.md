@@ -5,7 +5,7 @@
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
 - Languages and frameworks (C, Java, Python, Slash, Swift, XML)
 - Development (Git, Jenkins, Testrail)
-- Collaboration (Jira, Notion. Microsoft Teams)
+- Collaboration (Jira, Notion, Microsoft Teams)
 - Operating system (macOS, i0S, Windows, Android OS, Linux)
 - Back office (Microsoft Excel, Microsoft Edge)
 - Agile methodology
