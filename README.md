@@ -35,11 +35,7 @@ Github      2 mins          ▒░░░░░░░░░░░░░░░░�
 Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
-## 📫 Contact me 
-- [Email](mailto:samarpitaroy01@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/samarpita-roy/)
-- [Twitter](https://twitter.com/tinnyRoyyy)
-
+## 📫 Connect with me 
 <p align="left">
 <a href="https://twitter.com/tinnyRoyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samarpita-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
