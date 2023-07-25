@@ -10,7 +10,7 @@
 - Agile methodology
 
 ## 🔨 Languages and Tools
-[<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 
 
 
