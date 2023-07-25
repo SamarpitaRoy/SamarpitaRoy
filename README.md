@@ -25,8 +25,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
+## 📊 Weekly development breakdown
 
 ```txt
 Swift       4 hrs 49 mins   ███████████████████████░░   91.34 %
@@ -35,8 +34,6 @@ WordPress   7 mins          ▓░░░░░░░░░░░░░░░░�
 Github      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
-
-<!--END_SECTION:waka-->
 
 
 ## 📫 Contact me 
