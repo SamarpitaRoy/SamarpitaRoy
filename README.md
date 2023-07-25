@@ -25,6 +25,20 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+Python       4 hrs 49 mins   ███████████████████████░░   91.34 %
+Vue.js       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+```
+
+<!--END_SECTION:waka-->
+
+
 ## 📫 Contact me 
 - [Email](mailto:samarpitaroy01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/samarpita-roy/)
