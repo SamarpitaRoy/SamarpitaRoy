@@ -11,10 +11,9 @@ If I am not working or coding, I am probably
 #### 📚 Books I'm reading
 - **[The Kite Runner](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
 
-#### 📫 Connect with me 
-<p align="left">
-<a href="https://twitter.com/tinnyRoyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samarpita-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+#### Socials
+[Linkedin](https://www.linkedin.com/in/samarpita-roy/)
+[Twitter](https://twitter.com/tinnyRoyyy)
 
 #### 💬 Ask me about
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
