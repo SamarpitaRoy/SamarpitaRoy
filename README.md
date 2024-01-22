@@ -1,4 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there! Welcome to my github profile!</h1>
+### Hi, there! Welcome to my github profile!</h1>
+
+I am a software quality assurance engineer in the engineering team at Clootrack. Currently building Clootrack - a B2B SaaS CX (customer experience) analytics platform (Series A funded).
+
+If I am not working or coding, I am probably 
+- doing yoga and meditation
+- reading fiction
+- baking cookies
+- binging on Mubi
+
+#### 📚 Books I'm reading
+- **[How Democracies Die](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
 
 ## 💬 Ask me about
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
@@ -25,15 +36,6 @@
 <br />
 <br />
 
-## 📊 Weekly development breakdown
-
-```txt
-Swift       4 hrs 49 mins   ███████████████████████░░   91.34 %
-Python      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-WordPress   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Github      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-```
 
 ## 📫 Connect with me 
 <p align="left">
