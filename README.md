@@ -11,7 +11,12 @@ If I am not working or coding, I am probably
 #### 📚 Books I'm reading
 - **[The Kite Runner](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
 
-## 💬 Ask me about
+#### 📫 Connect with me 
+<p align="left">
+<a href="https://twitter.com/tinnyRoyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarpita-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+#### 💬 Ask me about
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
 - Languages and frameworks (C, Java, Python, Slash, Swift, XML)
 - Development (Git, Jenkins, Testrail)
@@ -20,7 +25,7 @@ If I am not working or coding, I am probably
 - Back office (Microsoft Excel, Microsoft Edge)
 - Agile methodology
 
-## 🔨 Languages and Tools
+#### 🔨 Languages and Tools
 <img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -35,9 +40,3 @@ If I am not working or coding, I am probably
 
 <br />
 <br />
-
-
-## 📫 Connect with me 
-<p align="left">
-<a href="https://twitter.com/tinnyRoyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samarpita-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
