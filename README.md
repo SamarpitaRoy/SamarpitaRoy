@@ -11,9 +11,9 @@ If I am not working or coding, I am probably
 #### 📚 Books I'm reading
 - **[The Kite Runner](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
 
-#### Socials
-[Linkedin](https://www.linkedin.com/in/samarpita-roy/)
-[Twitter](https://twitter.com/tinnyRoyyy)
+#### 💬 Socials
+- [Linkedin](https://www.linkedin.com/in/samarpita-roy/)
+- [Twitter](https://twitter.com/tinnyRoyyy)
 
 #### 💬 Ask me about
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
