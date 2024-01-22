@@ -9,7 +9,7 @@ If I am not working or coding, I am probably
 - binging on Mubi
 
 #### 📚 Books I'm reading
-- **[How Democracies Die](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
+- **[The Kite Runner](https://literal.club/book/the-kite-runner-ez54a)** by _Khaled Hosseini_
 
 ## 💬 Ask me about
 - Integrated development environment (PyCharm, IntelliJ IDEA, Visual Studio, Android Studio, XCode)
