@@ -1,6 +1,6 @@
 ### Hi, there! Welcome to my github profile!</h1>
 
-I am a software quality assurance engineer in the engineering team at Clootrack. Currently building Clootrack - a B2B SaaS CX (customer experience) analytics platform (Series A funded).
+I am a software quality assurance engineer in the engineering team at Clootrack. Clootrack is a B2B SaaS CX (customer experience) analytics platform (Series A funded).
 
 If I am not working or coding, I am probably 
 - doing yoga and meditation
@@ -26,6 +26,9 @@ If I am not working or coding, I am probably
 - macOS, i0S, Windows, Android OS, Linux
 - Microsoft Office
 - Scrum, Agile methodology
+
+#### 💻 Currently learning
+- Artificial Intelligence from Harvard CS50's Artificial intelligence with Python
 
 <br />
 <br />
