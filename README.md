@@ -27,8 +27,5 @@ If I am not working or coding, I am probably
 - Microsoft Office
 - Scrum, Agile methodology
 
-#### 💻 Currently learning
-- Artificial Intelligence from Harvard CS50's Artificial intelligence with Python
-
 <br />
 <br />
