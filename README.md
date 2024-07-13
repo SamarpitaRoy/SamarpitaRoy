@@ -16,14 +16,19 @@ If I am not working or coding, I am probably
 - [Twitter](https://twitter.com/tinnyRoyyy)
 
 #### 🔧 Ask me about
-- Python, Java, C, Slash Framework, Selenium, Git, JIRA, Jenkins
+- Python, Java, C
+- Slash Framework, Selenium
+- Postman, REST Assured
+- Git, JIRA, Jenkins
 - Quality Assurance, TestRail, All kinds of automation testing
+- All kinds of manual testing
 - CANoe, UDS, All kinds of automotive testing
 - iOS, Android Development
 - Linux, Chef, Docker, Kubernetes
 - Microsoft Azure, AWS
 - Jira, ClickUp, Notion
 - macOS, i0S, Windows, Android OS, Linux
+- TestRail, Tuskr
 - Microsoft Office
 - Scrum, Agile methodology
 
