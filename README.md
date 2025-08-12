@@ -5,7 +5,7 @@ I am a software engineer 2 at Lexmark. Working in the retail domain at Lexmark, 
 If I am not working or coding, I am probably 
 - doing yoga and meditation
 - reading fiction
-- baking cookies
+- studying criminal psychology
 - binging on Mubi
 
 #### 📚 Books I'm reading
